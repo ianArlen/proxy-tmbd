@@ -13,7 +13,7 @@ Follow these steps to run the proxy server:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/usuario/proxy-tmbd.git
+   git clone https://github.com/ianArlen/proxy-tmbd.git
 
 2. Navigate to the project directory:
    ```bash
